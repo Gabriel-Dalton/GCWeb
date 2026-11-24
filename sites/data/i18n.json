@@ -345,7 +345,7 @@
 	},
 	"menu-main-travel-link-8": {
 		"en": "https://travel.gc.ca/stay-connected",
-		"fr": "https://voyage.gc.ca/restez-branche"
+		"fr": "https://voyage.gc.ca/restez-branches"
 	},
 	"menu-main-travel-text-9": {
 		"en": "Visit Canada",
@@ -392,8 +392,8 @@
 		"fr": "Commerce international et investissements"
 	},
 	"menu-main-business-link-5": {
-		"en": "https://www.canada.ca/en/services/business/trade.html",
-		"fr": "https://www.canada.ca/fr/services/entreprises/commerce.html"
+		"en": "https://international.canada.ca/en/services/business/trade",
+		"fr": "https://international.canada.ca/fr/services/entreprises/commerce"
 	},
 	"menu-main-business-text-6": {
 		"en": "Research and development (R&amp;D) and innovation",
@@ -824,8 +824,8 @@
 		"fr": "À propos de Canada.ca"
 	},
 	"menu-footer-communications-about-link": {
-		"en": "https://www1.canada.ca/en/newsite.html",
-		"fr": "https://www1.canada.ca/fr/nouveausite.html"
+		"en": "https://www.canada.ca/en/government/about-canada-ca.html",
+		"fr": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
 	},
 	"menu-footer-communications-terms-text": {
 		"en": "Terms and conditions",
