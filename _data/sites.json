@@ -1480,8 +1480,8 @@
 				"fr": "La variation Signaler un problème comporte un bouton développer/réduire avec une liste de cases à cocher."
 			},
 			"guidance": {
-				"en": "https://design.canada.ca/common-design-patterns/report-problem.html",
-				"fr": "https://conception.canada.ca/configurations-conception-communes/signaler-probleme.html"
+				"en": "https://design.canada.ca/common-design-patterns/page-feedback.html",
+				"fr": "https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html"
 			},
 			"iteration": "_:iteration_rap_5",
 			"example": [
@@ -3285,8 +3285,8 @@
 				"fr": "Cette variante est limitée aux pages de nouvelles. Elle n'est permise sur aucune autre page."
 			},
 			"guidance": {
-				"en": "https://design.canada.ca/common-design-patterns/institutional-byline.html",
-				"fr": "https://conception.canada.ca/configurations-conception-communes/institution-responsable.html"
+				"en": "https://design.canada.ca/common-design-patterns/contributors.html",
+				"fr": "https://conception.canada.ca/configurations-conception-communes/collaborateurs.html"
 			},
 			"iteration": "_:iteration_mptb_1",
 			"example": [
@@ -3611,7 +3611,7 @@
 				}
 			},
 			"style": "The line has a width of 3.55em (71px) and a thickness of 0.18em (3.6px) with the color #af3c43. The byline is bolded.",
-			"guidance": "https://design.canada.ca/common-design-patterns/institutional-byline.html",
+			"guidance": "https://design.canada.ca/common-design-patterns/contributors.html",
 			"context": "Page context: First semantic element inside the main. Site context: limited to news pages on Canada.ca."
 		}
 	],

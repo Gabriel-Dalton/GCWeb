@@ -297,8 +297,8 @@
 				"fr": "La variation Signaler un problème comporte un bouton développer/réduire avec une liste de cases à cocher."
 			},
 			"guidance": {
-				"en": "https://design.canada.ca/common-design-patterns/report-problem.html",
-				"fr": "https://conception.canada.ca/configurations-conception-communes/signaler-probleme.html"
+				"en": "https://design.canada.ca/common-design-patterns/page-feedback.html",
+				"fr": "https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html"
 			},
 			"iteration": "_:iteration_rap_5",
 			"example": [
